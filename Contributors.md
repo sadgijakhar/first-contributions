@@ -15,6 +15,7 @@
 - [Athul Nambiar](http://github.com/athul-22)
 - 🐈‍⬛[lonely_caat](https://github.com/lonely-caat)🐈‍⬛
 - [Meow Aadvik]
+-[Sadgi Jakhar](https://github.com/sadgijakhar)
 - [Gatere Kinyanjui] (https://github.com/gatere-kinyanjui)
 - [Saur-av](https://github.com/Saur-av/) # Thanks for help
 - [Deepika Jain] (https://github.com/deepika8383)
